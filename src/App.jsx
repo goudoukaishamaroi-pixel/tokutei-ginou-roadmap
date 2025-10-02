@@ -1,7 +1,5 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import { Calendar, CheckSquare, AlertTriangle, FileText, Download, Clock, DollarSign, Users, TrendingUp, Building, ChevronRight, Check, X, MapPin } from 'lucide-react';
-import React, { useState, useMemo, useEffect } from 'react';
-import { Calendar, CheckSquare, AlertTriangle, FileText, Download, Clock, DollarSign, Users, TrendingUp, Building, ChevronRight, Check, X, MapPin } from 'lucide-react';
 
 // タスクデータベース
 const TASKS = [
