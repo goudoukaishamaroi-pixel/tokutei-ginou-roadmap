@@ -1124,7 +1124,7 @@ const App = () => {
                 PDF保存（自力で挑戦）
               </button>
               <button
-                onClick={() => window.open('https://nara-international.maroi.co.jp/contact', '_blank')}
+                onClick={() => window.open('https://nara-international.maroi.co.jp/', '_blank')}
                 className="bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-bold py-4 px-6 rounded-lg transition-all flex items-center justify-center shadow-lg"
               >
                 <Users className="mr-2" />
@@ -1139,8 +1139,8 @@ const App = () => {
             
             <div className="mt-6 text-center space-y-2 text-sm text-gray-600">
               <p className="font-semibold">💡 関連ツール</p>
-              <p>まだコスト試算していない方 → <a href="https://nara-international.maroi.co.jp/cost" className="text-blue-600 underline">コスト診断ツール</a></p>
-              <p>成功パターンを知りたい方 → <a href="https://nara-international.maroi.co.jp/cases" className="text-blue-600 underline">成功事例分析ツール</a></p>
+              <p>まだコスト試算していない方 → <a href="https://cost.maroi.co.jp/" className="text-blue-600 underline">コスト診断ツール</a></p>
+              <p>成功パターンを知りたい方 → <a href="https://tool.maroi.co.jp/" className="text-blue-600 underline">成功事例分析ツール</a></p>
             </div>
           </div>
 
